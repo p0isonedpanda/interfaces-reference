@@ -1,0 +1,10 @@
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/bin/Debug/netcoreapp2.0/interfaces-reference.deps.json
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/bin/Debug/netcoreapp2.0/interfaces-reference.runtimeconfig.json
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/bin/Debug/netcoreapp2.0/interfaces-reference.runtimeconfig.dev.json
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/bin/Debug/netcoreapp2.0/interfaces-reference.dll
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/bin/Debug/netcoreapp2.0/interfaces-reference.pdb
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/obj/Debug/netcoreapp2.0/interfaces-reference.csproj.CoreCompileInputs.cache
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/obj/Debug/netcoreapp2.0/interfaces-reference.AssemblyInfoInputs.cache
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/obj/Debug/netcoreapp2.0/interfaces-reference.AssemblyInfo.cs
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/obj/Debug/netcoreapp2.0/interfaces-reference.dll
+/home/p0isonedpanda/Documents/dotnet-test/interfaces-reference/obj/Debug/netcoreapp2.0/interfaces-reference.pdb
